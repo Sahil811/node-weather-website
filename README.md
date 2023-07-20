@@ -1,7 +1,3 @@
-# node-weather-website
-
-Here is a draft README.md for a node.js weather website repository:
-
 # Node Weather Website
 
 This is a simple website built with Node.js that displays the current weather and forecast for a given location.
